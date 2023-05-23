@@ -1,0 +1,147 @@
+.rewardsDiv{
+    width: 700.76px;
+    height: 165.69px;
+    border-radius: 24px;
+    background-color: #191B20;
+    margin-left: 35.4px;
+    margin-top: 19.66px;
+    margin-right: 44.78px;
+    display: flex;
+}
+.yourRewardsText{
+    width: 120px;
+    height: 24px;
+    margin-top: 27.31px;
+    margin-left: 25.25px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 24px;
+}
+.rewardsValue{
+    width: 169px;
+    height: 48px;
+    margin-top: 7px;
+    margin-left: 25.25px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 28px;
+    font-style: normal;
+    color:  #FFFFFF;
+    letter-spacing: -1px;
+    line-height: 48px;
+}
+.rewardBottom{
+    display: flex;
+}
+.rewardValueBottomOne{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 79.66px;
+    height: 25.08px;
+    margin-top: 7px;
+    margin-left: 25.25px;
+    margin-bottom: 27.31px;
+    background-color: #353945;
+    border-radius: 11px;
+}
+.avaxRewardDiv{
+    width: 61px;
+    height: 18px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 17.18px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+.rewardValueBottomTwo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 64.7px;
+    height: 25.08px;
+    border-radius: 11px;
+    background-color: #353945;
+margin-left: 6.89px;
+margin-top: 7px;
+margin-bottom: 27.31px;
+}
+.bnbDiv{
+    width: 48px;
+    height: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 17.18px;
+    color: #FFFFFF;
+
+}
+.rewardValueBottomThree{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 69.86px;
+height: 25.08px;
+border-radius: 11px;
+margin-left: 6px;
+background-color: #353945;
+margin-top: 7px;
+margin-bottom: 27.31px;
+}
+.btcDiv{
+    width: 54px;
+    height: 18px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 17.18px;
+    color: #FFFFFF;
+    font-style: normal;
+}
+.customLinkButtonDiv{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.dashboardCustomLinkButton{
+    display: flex;
+    align-items: center;
+    width: 142.54px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: #3772FF;
+    margin-top: 64.44px;
+    margin-left: 254.05px;
+    margin-right: 51.82px;
+    margin-bottom: 65.25px;
+    border: none;
+}
+.customLinkLogo{
+    width: 14px;
+    height: 15.65px;
+    margin-left: 20.72px;
+    /* margin-top: 10.18px; */
+    margin-bottom: 5px;
+    margin-right: 6.5px;
+    color: #FFFFFF;
+}
+.customLinkText{
+    color: #FFFFFF;
+    width: 82px;
+    height: 23.47px;
+    margin-left: 6.5px;
+    /* margin-top: 6.26px;
+    margin-bottom: 6.26px; */
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+    line-height: 24px;
+}

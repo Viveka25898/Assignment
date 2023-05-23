@@ -1,0 +1,236 @@
+.tableTabHeadings{
+    display: flex;
+    width: 200.49px;
+    height: 28.13px;
+    margin-left: 36.45px;
+    margin-top: 32.02px;
+}
+.firstTabHeading{
+    width: 76px;
+    height: 18px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.firstTabHeading:hover{
+    border-bottom: 1px solid green;
+
+}
+.secondTabHeading{
+    width: 103px;
+    height: 18px;
+    margin-left: 21.49px;
+    color: #808191;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+}
+.tableHadingsDiv{
+    display: flex;
+    align-items: center;
+    width: 709.91px;
+    height: 40px;
+    margin-top: 23.65px;
+    margin-left: 32.06px;
+    border-radius: 8px;
+    background-color: #191B20;
+}
+.assetHeading{
+    width: 37.89px;
+    height: 24px;
+    margin-left: 50.96px;
+    color: #808191;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 24px;
+}
+.amountHeading{
+    width: 78.84px;
+    height: 24px;
+    margin-left: 96.85px;
+    color: #808191;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 24px;
+
+}
+.userAccountHeading{
+    width: 93.18px;
+    height: 24px;
+    margin-left: 101.85px;
+    color: #808191;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 24px;
+
+}
+.referralEarningHeading{
+    width: 115px;
+    height: 24px;
+    margin-left: 87.51px;
+    color: #808191;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 24px;
+
+}
+.tableDataDiv{
+    display: flex;
+    align-items: center;
+    width: 705.52px;
+    height: 62.29px;
+    margin-left: 36.25px;
+    margin-top: 4.28px;
+    background-color: rgba(36, 39, 49, 0.4);
+    border-radius: 5px;
+}
+.assetDataDiv{
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+    margin-left: 21.72px;
+    margin-top: 4px;
+}
+.assetDataDivImg{
+    width: 28px;
+    height: 28px;
+}
+.bitcoinImg{
+    width: 27.45px;
+    height: 27px;
+}
+.assetDataDivData{
+    width: 67px;
+    height: 38.75px;
+    margin-left: 12.37px;
+}
+
+.bitcoinName{
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+}
+.putDiv{
+    display: flex;
+    align-items: center;
+    width: 67px;
+    height: 16.31px;
+    color: #808191;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+}
+.avaxDiv{
+    display: flex;
+    align-items: center;
+    width: 44.66px;
+    height: 16.31px;
+    border-radius: 7.15px;
+    margin-left: 6.63px;
+    background-color: #353945;
+}
+.avaxImg{
+    width: 9.11px;
+    height: 9.11px;
+margin-left: 4.74px;
+border: 1px solid orange;
+
+}
+.avaxText{
+    width: 23px;
+    height: 12px;
+    margin-left: 3.31px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 7.80515px;
+    line-height: 11px;
+}
+.ammountDataDiv{
+    /* display: flex; */
+    width: 100px;
+    height: 50px;
+    margin-left: 45.4px;
+    margin-top: 4px;
+}
+.ammountData{
+    width: 84.37px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-left: 8px;
+    margin-top: 7px;
+}
+.ammountExpired{
+    width: 51.84px;
+    height: 14px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #808191;
+    margin-left: 22px;
+    margin-bottom: 20px;
+}
+.userAccountDiv{
+    width: 113.85px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 78px;
+    color: #FFFFFF;
+}
+.referralEarningDiv{
+    margin-left: 70px;
+}
+.bnb{
+    width: 75.22px;
+    height: 20px;
+    margin-left: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.viewOnBsc{
+    display: flex;
+    align-items: center;
+    width: 135.75px;
+    height: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #808191;
+    margin-left: 8px;
+}

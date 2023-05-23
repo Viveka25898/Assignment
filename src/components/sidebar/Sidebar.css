@@ -1,0 +1,440 @@
+.sideBar{
+    flex: 3;
+    height: 100vh;
+    background-color: #000000;
+    border-right: 2px solid #242731;
+}
+.sideBarWrapper{
+    padding: 20px;
+}
+.sideBarTop{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    height: 32px;
+    width: 100%;
+    margin-top: 33.52px;
+    margin-left: 20px;
+}
+
+.sideBarTopLogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 15px;
+    background-color: #3772FF;
+    width: 29.82px;
+    height: 28.24px;
+    border-radius: 50%;
+    color: #FEFEFE;
+
+}
+.sideBarTopName{
+    width: 72px;
+    height: 32px;
+    margin-left: 7.91px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23.5618px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+.sideBarTopArrow{
+    margin-top: 10px;
+    margin-left: 81.52px;
+    color: white;
+}
+.sideBarList{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-left: 10.99px;
+    color: #808191;
+}
+.sideBarListItemHome{
+    display: flex;
+width: 88.59px;
+height: 23.88px;
+margin-top: 29.28px;
+margin-left: 10.99px;
+color: #808191;
+}
+.sideBarHomeIcon{
+    width: 28px;
+    height: 28px;
+}
+.sideBarHomeText{
+    width: 48px;
+    height: 23.88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 22.09px;
+}
+.sideBarListItemSectionOne{
+    display: flex;
+    width: 145.26px;
+    height: 23.88px;
+    margin-top: 22.02px;
+    margin-left: 10.99px;
+}
+.sideBarSectionOneIcon{
+    width: 20px;
+    height: 18.94px;
+}
+.sideBarSectionOneText{
+    width: 103px;
+    height: 23.88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 22.26px;
+}
+.sideBarListItemSectionTwo{
+    display: flex;
+    width: 153.26px;
+    height: 23.88px;
+    margin-top: 22.02px;
+    margin-left: 10.99px;
+}
+.sideBarSectionTwoText{
+    width: 111px;
+    height: 23.88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 22.26px;
+}
+.sideBarListItemSectionThree{
+    display: flex;
+    width: 122.83px;
+    height: 23.88px;
+    margin-top: 22.02px;
+    margin-left: 10.99px;
+}
+.sideBarSectionThreeText{
+    width: 111px;
+    height: 23.88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 22.26px;
+}
+.sideBarListItemSectionFour{
+    display: flex;
+    width: 153.4px;
+    height: 23.88px;
+    margin-top: 22.02px;
+    margin-left: 10.99px;
+}
+.sideBarSectionFourText{
+    width: 114px;
+    height: 23.88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 22.26px;
+}
+.sideBarListItemSectionFive{
+    display: flex;
+    width: 93.83px;
+    height: 23.88px;
+    margin-top: 22.02px;
+    margin-left: 10.99px;
+}
+.sideBarSectionFiveText{
+    width: 52px;
+    height: 23.88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 22.26px;
+}
+.sideBarListItemSectionSix{
+    display: flex;
+    width: 156.51px;
+    height: 23.88px;
+    margin-top: 22.02px;
+    margin-left: 10.99px;
+}
+.sideBarSectionSixText{
+    width: 115px;
+    height: 23.88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 22.26px;
+}
+.sideBarListItemSectionSeven{
+    display: flex;
+    width: 128.51px;
+    height: 23.88px;
+    margin-top: 22.02px;
+    margin-left: 10.99px;
+}
+.sideBarSectionSevenText{
+    width: 87px;
+    height: 23.88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 22.26px;
+}
+.sideBarListItemSectionEight{
+    display: flex;
+    align-items: center;
+    width: 216 px;
+    height: 42px;
+    margin-top: 22.02px;
+    margin-left: 10.99px;
+    background-color: #353945;
+    border-radius: 12px;
+}
+.sideBarSectionEightIcon{
+    margin-left: 20.28px;
+}
+.sideBarSectionEightText{
+    width: 64px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 10.54px;
+    color: #FFFFFF;
+}
+.Documentation{
+    display: flex;
+    width: 144.57 px;
+    height: 20.53px;
+    margin-top: 22.02px;
+    margin-left: 10.99px;
+    border-radius: 12px;
+}
+.sideBarDocumentationIcon{
+    width: 14.4px;
+    height: 17.53px;
+}
+.sideBarDocumentationText{
+    width: 105px;
+    height: 15.92px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 25.17px;
+   
+}
+.sidebarBottom{
+    display: flex;
+    width: 196px;
+    height: 33.83px;
+    margin-top: 142.79px;
+    margin-left: 20.99px;
+}
+.sidebarBottomLeftBox{
+    display: flex;
+    width: 95px;
+    height: 33.83px;
+    background-color: #353945;
+    border: none;
+    border-radius: 10px;
+}
+.sidebarBottomRightBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95px;
+    height: 33.83px;
+    margin-left: 6.66px;
+    background-color: #A3E3FF;
+    border: none;
+    border-radius: 10px;
+}
+.sidebarBottomLeftLogo{
+    display: flex;
+    margin-left: 15.66px;
+    margin-top: 7.49px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    background-color: #3772FF;
+    width: 16.44px;
+    height: 17.05px;
+    border-radius: 50%;
+    color: #FEFEFE;
+}
+.sidebarBottomLeftBoxText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 29px;
+    width: 41px;
+    height: 29px;
+    margin-top: 2.49px;
+    margin-left: 6.75px;
+    color: #FFFFFF;
+}
+.sidebarBottomRightBoxText{
+    width: 69px;
+    height: 25.22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 29px;
+    color: #3772FF;
+}
+.sidebarLastBox{
+    display: flex;
+    width: 90.89px;
+    height: 25.73px;
+    margin-left: 20.99px;
+    margin-top: 18.43px;
+}
+.earthLogo{
+    width: 20.11px;
+    height: 21.06px;
+    color: #808191;
+}
+.darkNightModeDiv{
+    display: flex;
+    width: 58.19px;
+    height: 25.86px;
+    background-color: #353945;
+    border-radius: 12.93px;
+    margin-left: 12.59px;
+}
+.nightLogo{
+    width: 13.69px;
+    height: 13.59px;
+    margin-left: 6.94px;
+    border: none;
+}
+.dayLogo{
+    border: none;
+    width: 18.23px;
+    height: 18.23px;
+    background-color: #3772FF;
+    border-radius: 50%;
+    margin-left: 11.92px;
+    margin-top: 3.82px;
+}
+
+
+
+
+
+/* .sideBarIcon{
+    margin-right: 15px;
+}
+.sideBarListItem{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    color: #808191;
+}
+.sideBarListItemText{
+    font-weight: 600;
+    font-size: 14px;
+    width: 81px;
+} */
+.sideBarBottom{
+    display: flex;
+    align-items: center;
+    width: 196px;
+    height: 34px;
+    /* border: 2px solid green; */
+    /* top: 672px;
+    left: 29px; */
+}
+.sideBarBottomLeft{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95px;
+    height: 33.83px;
+    background-color: #353945;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.sideBarBottomRight{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95px;
+    height: 33.83px;
+    background-color: #A3E3FF;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+.sideBarBottomRightText{
+position: absolute;
+width: 69px;
+margin-bottom: 2px;
+height: 25.22px;
+font-weight: 600;
+font-size: 14px;
+line-height: 29px;
+color: #3772FF;
+}
+.bottomLogo{
+    width: 16.44px;
+    height: 17.05px;
+    background-color: #3772FF;
+    border-radius: 50%;
+}
+.bottomRightDarkMode{
+    width: 58.19px;
+    height: 25.86px;
+background-color: aquamarine;
+}
+/* .bottomLogoText{
+    color: white;
+    width: 41px;
+    height: 29px;
+    font-weight: 600;
+font-size: 14px;
+line-height: 29px;
+} */
+.bottomLeftText{
+    color: white;
+    width: 41px;
+    height: 29px;
+    font-weight: 600;
+font-size: 14px;
+line-height: 29px;
+}
+.languageLogo{
+    color: #808191;
+}

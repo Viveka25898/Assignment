@@ -1,0 +1,188 @@
+.rightBar{
+    flex: 4;
+    background-color: #000000;
+    
+}
+.rightBarTopBoxes{
+    display: flex;
+}
+.rightBarTopLeftBox{
+    width: 146.67px;
+    height: 39.22px;
+    border-radius: 10px;
+    margin-left: 31.28px;
+    margin-top: 24.99px;
+    background-color: #353945;
+    
+}
+.rightBarTopLeftBoxIcon{
+    width: 20px;
+    height: 20px;
+    background-color: orangered;
+}
+.avalanche{
+    width: 105px;
+    height: 29px;
+    font-style: normal;
+    margin-left: 30.28px;
+    margin-top: 5.01px;
+    border: none;
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 15.02px;
+    line-height: 29px;
+    background-color: #353945 ;
+}
+.avalancheOptions{
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 15.02px;
+    border: none;
+    background-color: #353945 ;
+}
+.rightBarTopRightBox{
+    width: 146.67px;
+    height: 39.22px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 24.99px;
+    border: 1px solid #3772FF;
+    
+}
+.rightBarTopRightBoxIcon{
+    margin-left: 5  .24px;
+    color: #3772FF;
+}
+.muiIcon{
+    margin-top: 8.67px;
+}
+.rightBarTopRightBoxAccount{
+    width: 105.16px;
+    height: 29px;
+    border: none;
+    margin-left:33.69px;
+    margin-top: 5px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 14.02px;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+.rightBarCustomLinkBox{
+    width: 333.94px;
+    height: 227.37px;
+    margin-top: 28.14px;
+    margin-left: 34.56px;
+}
+.arrowLeft{
+    width: 12px;
+    height: 9.18px;
+    margin-top: 1.52px;
+    color: #FFFFFF;
+}
+.rightBarcustomLinkText{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 28.14px;
+    width: 102px;
+    height: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 20px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+.rightBarCustomLink{
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 45.03px;
+    margin-left: 10.47px;
+    margin-top: 20.37px;
+}
+.url{
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -1px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+.rightBarInputBox{
+    width: 333.94px;
+    height: 50.63px;
+    margin-top: 7.37px;
+    border-radius: 12px;
+    background-color: #242731;
+    mix-blend-mode: normal;
+}
+.customLinkBox{
+    margin-top: 30.6px;
+    width: 142.54px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: #3772FF;
+    display: flex;
+    align-items: center;
+    border: none;
+}
+.customIcon{
+    display: flex;
+    align-items: center;
+    width: 14px;
+    height: 15.65px;
+    margin-left: 15.72px;
+    color: #FFFFFF;
+}
+.customLink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 82px;
+    height: 23.47px;
+    margin-left: 14.5px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 14px;
+    color:#FFFFFF;
+}
+.rightBarBottom{
+    width: 286.04px;
+    height: 36px;
+    left: 1094.52px;
+    margin-top: 30.6px;
+    margin-left: 23.95px;
+    display: flex;
+}
+.cancelBox{
+    border: 1px solid #242731;
+    margin-top: 30.6px;
+    width: 126px;
+    height: 36px;
+    border-radius: 12px;
+    background-color:#000000;
+    margin-left: 17.5px;
+    display: flex;
+    align-items: center;
+}
+.cancelIcon{
+    display: flex;
+    align-items: center;
+    width: 16px;
+    height: 16px;
+    color: #FFFFFF;
+    margin-left: 26.5px;
+}
+.cancelText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 82px;
+    height: 23.47px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 14px;
+    color:#FFFFFF;
+}

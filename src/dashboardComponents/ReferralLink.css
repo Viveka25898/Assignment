@@ -1,0 +1,72 @@
+.referralLinkDiv{
+    display: flex;
+}
+.referralLinkLeftDiv{
+    width: 340px;
+    height: 177.95px;
+    border-radius: 16px;
+    background-color: #191B20;
+    margin-left: 35.4px;
+    margin-top: 19.8px;
+}
+.feeLogo{
+    margin-top: 50px;
+} 
+.feeText{
+    display:inline-flex;
+    width: 247.41px;
+    height: 24px;
+    margin-left: 9.36px;
+    margin-top: 20.07px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.referralLinkHeading{
+    width: 215.49px;
+    height: 16px;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 16px;
+    margin-left: 20.46px;
+    margin-top: 17.93px;
+    color: #808191;
+}
+.referralLinkBox{
+    display: flex;
+    align-items: center;
+    width: 297px;
+    height: 56px;
+    border-radius: 8px;
+    background-color: #242731;
+    margin-left: 20.82px;
+    margin-top: 15.65px;
+}
+.referralLink{
+    margin-left: 16px;
+    width: 216.41px;
+    height: 24px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.referralLinkIcon{
+    color: #FFFFFF;
+    margin-left: 28px;
+
+    
+}
+.referralLinkRightDiv{
+    width: 340px;
+    height: 177.95px;
+    border-radius: 16px;
+    background-color: #191B20;
+    margin-left: 22.31px;
+    margin-top: 19.8px;
+}

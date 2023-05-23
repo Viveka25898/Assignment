@@ -1,0 +1,243 @@
+.dashboard{
+    flex: 5.5;
+    height: 100vh;
+    background-color: #000000;
+    border-right: 2px solid #242731;
+}
+.dashboardTop{
+    display: flex;
+}
+.dashboardSection{
+    margin-top: 31.1px;
+    margin-left: 49.77px;
+    width: 67px;
+    height: 18px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;;
+}
+.dashboardTopRightBox{
+    display: flex;
+    align-items: center;
+    margin-left: 430.42px;
+    margin-top: 23.48px;
+    margin-right: 37.06px;
+    width: 196.69px;
+    height: 39.27px;
+    border-radius: 12.25px;
+    background-color: #191B20;
+}
+.dashboardTopRightBoxLogo{
+    width: 19.16px;
+    height: 14.15px;
+    margin-left: 12.99px;
+    margin-top: 13.29px;
+    margin-bottom: 24.13px;
+    color: #3772FF;
+}
+.dashboardTopRightBoxText{
+    display: flex;
+    text-align: center;
+    width: 79.51px;
+    height: 34.3px;
+    margin-left: 15.6px;
+    margin-top: 15px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
+.tierBox{
+    display: flex;
+    text-align: center;
+    width: 50.87px;
+    height: 22.77px;
+    margin-left: 16.58px;
+    margin-top: 9.48px;
+    margin-bottom: 7.01px;
+    margin-right: 10.99px;
+    background-color: #A3E3FF;
+    border-radius: 5px;
+}
+.tierBoxText{
+    width: 36.85px;
+    height: 14.62px;
+    margin-top: 4.04px;
+    margin-left: 6.85px;
+    margin-right: 7.18px;
+    margin-bottom: 4.11px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 12px;
+    color: #3772FF;
+    letter-spacing: 0.240494px;
+}
+/* .dashboardAdd{
+    width: 687px;
+    height: 86px;
+    border-radius: 10px;
+    background-color: #ABE8FF;
+    margin-top: 23.53px;
+    margin-left: 39.98px;
+    margin-right: 53.97px;
+    display: flex;
+}
+.dashBoardAddTextDiv{
+width: 530px;
+height: 26px;
+margin-left: 24px;
+margin-top: 16px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+color: #2B2557;
+line-height: 26px;
+
+}
+.tutorialButtonDiv{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 24px;
+    width: 86px;
+    height: 24px;
+    margin-top: 5px;
+    background-color: #FFFFFF;
+    color: #2B2557;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    border: none;
+}
+.dashboardAddDiv{
+    width: 114.29px;
+    height: 90.23px;
+    margin-top: 5.33px;
+    margin-left: 3.05px;
+} */
+/* .dashBoardAddTextDiv{
+    margin-top: 16px;
+    margin-bottom: 44px;
+    margin-left: 24px;
+}
+.dashboardAddText{
+    width: 530px;
+    height: 26px;
+    margin-left: 24px;
+    font-style: normal;
+    font-family: Poppins;
+
+    font-weight: 500;
+    font-size: 12px;
+    color: #2B2557;
+} */
+/* .tutorialButtonDiv{
+    margin-bottom: 15px;
+    margin-left: 22px;
+} */
+/* .tutorialButton{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: none;
+    background-color: #FFFFFF;
+    width: 86px;
+    height: 24px;
+    border-radius: 6px;
+}
+.buttonText{
+    margin-left: 20.96px;
+    margin-right: 20.04px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.addImgDiv{
+    width: 114.29px;
+    height: 90.23px;
+    margin-top: 5.33px;
+    border: 2px solid green;
+    margin-left: 3.05px;
+}
+img{
+    width: 114.29px;
+    height: 90.23px;
+}
+.addRemove{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: -5px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+} */
+.dashboarAddDiv{
+    display: flex;
+    width: 697.34px;
+    height: 102.68px;
+    margin-top: 17.95px;
+    margin-left: 39.98px;
+}
+.addDiv{
+    display: flex;
+    width: 687px;
+    height: 86px;
+    margin-top: 7.12px;
+    background-color: #ABE8FF;
+}
+.addRemoveDiv{
+    width: 24px;
+    height: 24px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    margin-bottom: 78.68px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.addTextAndButtonDiv{
+    width: 530px;
+    height: 70px;
+    margin-left: 24px;
+    margin-top: 16px;
+}
+.addText{
+    width: 530px;
+    height: 26px;
+    color: #2B2557;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 26px;
+}
+.addImgDiv{
+    width: 114.29px;
+    height: 90.23px;
+    margin-left: 3.05px;
+    margin-top: 5.33px;
+}
+.tutorialBtnDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 86px;
+    height: 24px;
+    border-radius: 6px;
+    margin-left: 22px;
+    margin-top: 5px;
+    border: none;
+    background-color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 24px;
+    color: #2B2557;
+}

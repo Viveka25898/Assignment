@@ -1,8 +1,8 @@
 import React from 'react'
 import "./Sidebar.css"
 import {
-  WindowOutlined, ArticleOutlined, Share, SignalCellularAltOutlined, CurrencyExchange, Language,
-  DarkMode, KeyboardBackspace
+  WindowOutlined, ArticleOutlined, Share,  CurrencyExchange, Language,
+  DarkMode, KeyboardBackspace, CandlestickChart, SignalCellularAlt,AssessmentOutlined, BrokenImageOutlined
 } from "@mui/icons-material"
 export const Sidebar = () => {
   return (
@@ -19,15 +19,15 @@ export const Sidebar = () => {
             <span className="sideBarHomeText">Home</span>
           </div>
           <div className="sideBarListItemSectionOne">
-            <WindowOutlined className="sideBarSectionOneIcon" />
+            <AssessmentOutlined className="sideBarSectionOneIcon" />
             <span className="sideBarSectionOneText">Section 1</span>
           </div>
           <div className="sideBarListItemSectionTwo">
-            <WindowOutlined className="sideBarSectionTwoIcon" />
+            <CandlestickChart className="sideBarSectionTwoIcon" />
             <span className="sideBarSectionTwoText">Section 2</span>
           </div>
           <div className="sideBarListItemSectionThree">
-            <WindowOutlined className="sideBarSectionThreeIcon" />
+            <BrokenImageOutlined className="sideBarSectionThreeIcon" />
             <span className="sideBarSectionThreeText">Section 3</span>
           </div>
           <div className="sideBarListItemSectionFour">
@@ -42,7 +42,7 @@ export const Sidebar = () => {
             <WindowOutlined className="sideBarSectionSixIcon" />
             <span className="sideBarSectionSixText">Section 6</span>
           </div><div className="sideBarListItemSectionSeven">
-            <SignalCellularAltOutlined className="sideBarSectionSevenIcon" />
+            <SignalCellularAlt className="sideBarSectionSevenIcon" />
             <span className="sideBarSectionSevenText">Section 7</span>
           </div>
           <div className="sideBarListItemSectionEight">
@@ -54,33 +54,6 @@ export const Sidebar = () => {
             <span className="sideBarDocumentationText">Documentation</span>
           </div>
         </div>
-        {/* <div className="sideBarBottom">
-          <span className="sideBarBottomLeft">
-            <div className="sideBarBottomLeftText">
-              <span className="bottomLeftText">
-                $0.90
-              </span>
-            </div>
-          </span>
-          <span className="sideBarBottomRight">
-            <div className="sideBarBottomRightText">
-
-              Buy $XYZ
-            </div>
-          </span>
-
-
-        </div> */}
-        {/* <div className="bottomLeftLogo">
-          <Language className='languageLogo' />
-
-          <span className="bottomRightLogo">
-
-            <div className="bottomRightDarkMode">
-              <DarkMode className='languageLogo' />
-            </div>
-          </span>
-        </div> */}
         <div className="sidebarBottom">
           <button className="sidebarBottomLeftBox">
           <span className="sidebarBottomLeftLogo">N</span>

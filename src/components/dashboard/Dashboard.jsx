@@ -40,21 +40,6 @@ export const Dashboard = () => {
         <button className="addRemoveDiv" onClick={removeAdd}><Close/></button>
       </div>
       }
-      {/* <div className="dashboardAdd">
-        <div className="dashBoardAddTextDiv">
-          
-            Lorem ipsum is simply dummy text of the printing and typesetting industry.
-      
-          <button className="tutorialButtonDiv">
-             Tutorial 
-          </button >
-        </div>
-        <div className="addImgDiv">
-          <img src="../../img.jpg" alt="" />
-          
-        </div>
-     <button className="addRemove"><Close/></button> 
-      </div> */}
         <Rewards/>
         <ReferralLink/>
         <Table/>

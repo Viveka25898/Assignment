@@ -121,6 +121,8 @@ justify-content: center;
     margin-right: 51.82px;
     margin-bottom: 65.25px;
     border: none;
+    cursor: pointer;
+
 }
 .customLinkLogo{
     width: 14px;

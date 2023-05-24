@@ -152,7 +152,7 @@
     width: 9.11px;
     height: 9.11px;
 margin-left: 4.74px;
-border: 1px solid orange;
+margin-bottom: 5px;
 
 }
 .avaxText{
@@ -166,7 +166,10 @@ border: 1px solid orange;
     line-height: 11px;
 }
 .ammountDataDiv{
-    /* display: flex; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 100px;
     height: 50px;
     margin-left: 45.4px;
@@ -197,6 +200,7 @@ border: 1px solid orange;
     margin-bottom: 20px;
 }
 .userAccountDiv{
+    overflow:hidden;
     width: 113.85px;
     height: 20px;
     font-family: 'Inter';
@@ -206,6 +210,9 @@ border: 1px solid orange;
     line-height: 24px;
     margin-left: 78px;
     color: #FFFFFF;
+}
+.userAccountDiv:hover{
+overflow: visible;
 }
 .referralEarningDiv{
     margin-left: 70px;
